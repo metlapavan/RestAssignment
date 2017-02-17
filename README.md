@@ -4,18 +4,20 @@ sample-jersey-sqlite-application
 This is a sample web application that uses Java + Jersey Rest API and database Sqllite.
 
 
-**Required tools / Frameworkd to run the application
+**Required tools / Framework to run the application
 Tomcat
 Maven
 Java
 Sqllite
+Eclipse IDE 
 
 Project Files Description
 ===========================
 
 
 pom.xml --> Project Model file used during maven build
-.java files --> Project src code for table creation, model (Request/Response), controller's
+.java files --> Project src code for table creation, model (Request/Response) & controller's
+Create same directory structure to build projects 
 
 
 Steps to delpoy application on Tomcat
